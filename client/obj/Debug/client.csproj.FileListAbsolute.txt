@@ -1,0 +1,33 @@
+C:\Users\Nader\Documents\Visual Studio 2015\Projects\LemonWay_Challenge\client\bin\Debug\client.exe.config
+C:\Users\Nader\Documents\Visual Studio 2015\Projects\LemonWay_Challenge\client\bin\Debug\client.exe
+C:\Users\Nader\Documents\Visual Studio 2015\Projects\LemonWay_Challenge\client\bin\Debug\client.pdb
+C:\Users\Nader\Documents\Visual Studio 2015\Projects\LemonWay_Challenge\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Nader\Documents\Visual Studio 2015\Projects\LemonWay_Challenge\client\obj\Debug\client.exe
+C:\Users\Nader\Documents\Visual Studio 2015\Projects\LemonWay_Challenge\client\obj\Debug\client.pdb
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\ApplicationInsights.config
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\csc.exe
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\vbc.exe
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\client.exe.config
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\client.exe
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\client.pdb
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\LemonWay_Challenge.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\log4net.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\LemonWay_Challenge.pdb
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\LemonWay_Challenge.dll.config
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\obj\Debug\client.exe
+C:\Users\nbenmohamed\Documents\Nader\test\Nad-master\Nad-master\client\obj\Debug\client.pdb

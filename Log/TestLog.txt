@@ -1,0 +1,16 @@
+ERROR 2019-05-16 13:47:24,433   113ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 13:53:02,886   116ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 13:56:00,357  2477ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 14:02:36,252   112ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 14:08:03,169   111ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 14:08:08,288  5230ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 14:08:12,773  9715ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 14:08:18,009 14951ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 14:08:24,209 21152ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-16 14:09:11,238   127ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-21 11:10:33,342   113ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-21 11:13:39,690    85ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-21 11:31:35,080    79ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-21 11:31:53,115 18114ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-21 11:38:31,428 416428ms WebServiceLemonway     Fibonacci          - run Fibonacci
+DEBUG 2019-05-21 11:38:49,601 434601ms WebServiceLemonway     XmlToJson          - run XmlToJson
